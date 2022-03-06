@@ -1,0 +1,39 @@
+
+
+     .Header{
+    background-color:aquamarine;
+    line-height: 300px;
+    width: 1500px;
+    margin-bottom: 0; 
+     }
+     
+     .Sidebar{
+    background-color:darkorange;
+line-height: 200px;
+width: 300px;
+margin-top: 10px;     
+}
+
+.Section{
+background-color: coral;
+line-height: 400;
+width: 600px;;
+margin-bottom: 10px;
+}
+
+.Footer{
+    background-color: crimson;
+line-height: 400px;
+width: 400px;
+text-align: center;
+margin: 10px;
+clear: both;
+}
+
+
+
+
+
+
+
+}

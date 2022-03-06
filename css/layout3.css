@@ -1,0 +1,40 @@
+*{
+    margin: 0.1%;
+    padding: 0%;
+}
+.Header , .Navbar , .Footer{
+    background-color: coral;
+    line-height: 100px;
+    width: 100%;
+    text-align: center;
+
+}
+.Footer{
+    overflow: auto;
+}
+
+.main{
+    background-color: lightgreen;
+    line-height: 170px;
+    width: 40%;
+    text-align: center;
+    float: left;
+
+}
+.Artical{
+    background-color: lightgreen;
+    line-height: 170px;
+    width: 40%;
+    text-align: center;
+    overflow: auto;
+    float: left;
+
+}
+.side{
+    background-color: lightgreen;
+    line-height: 200px;
+    width: 19.4%;
+    text-align: center;
+    float: right;
+
+}

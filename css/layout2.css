@@ -1,0 +1,59 @@
+.Header {
+    background-color: blue;
+     line-height: 200px;
+    width: 100%;
+    text-align: center;
+}
+
+.Menu{
+    background-color: aqua;
+    line-height: 100px;
+    width: 100%;
+    text-align: center;
+    
+}
+section{
+    line-height: 200px;
+    width: 100%;
+}
+.Content{
+    background-color: coral;
+    line-height: 200px;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+
+.Main{
+    background-color:cornflowerblue ;
+    line-height: 200px;
+    width: 58.3%;
+    text-align: center;
+    float: left;
+    overflow: auto;
+
+}
+
+.Content2{
+    background-color: chocolate;
+line-height: 200px;
+width: 20%;
+float: right;
+text-align: center;
+overflow: auto;
+margin-right: 0%;
+}
+
+.Footer{
+    background-color:crimson ;
+    line-height: 100px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    clear: both;
+}
+
+*{
+    margin: 5px;
+    padding: 0%;
+}
