@@ -2,35 +2,43 @@
 
      .Header{
     background-color:aquamarine;
-    line-height: 300px;
-    width: 1500px;
-    margin-bottom: 0; 
+    line-height: 200px;
+    width: 100%;
+    margin-bottom: 10px; 
      }
      
      .Sidebar{
     background-color:darkorange;
-line-height: 200px;
-width: 300px;
-margin-top: 10px;     
+line-height: 400px;
+width: 20%;
+margin-bottom: 10px;
+float: left;
+text-align: center;
+
 }
 
 .Section{
 background-color: coral;
-line-height: 400;
-width: 600px;;
+line-height: 400px;
+width: 70%;;
 margin-bottom: 10px;
-}
+float: right;
+ text-align: center;}
 
 .Footer{
     background-color: crimson;
 line-height: 400px;
-width: 400px;
+width: 100%;
 text-align: center;
-margin: 10px;
+
 clear: both;
 }
 
-
+.{
+    margin: 0%;
+    padding: 0%;
+    
+}
 
 
 

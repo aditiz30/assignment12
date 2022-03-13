@@ -1,0 +1,102 @@
+.Main{
+    height: 1000px;
+    width: 1200px;
+    background-color:chocolate;
+    float: none;
+    text-align: center;
+}
+.Header{
+    height: 150px;
+    width: 1200px;
+    background-color:blue;
+    float: none;
+    overflow:auto ;
+    text-align: center;
+
+}
+.Container{
+    height: 800px;
+    width: 1200px;
+    background-color: aqua;
+    float: none;
+    overflow: none;
+    text-align: center;
+}
+.Footer{
+    height: 50px;
+    width: 1200px;
+    background-color: chartreuse;
+    float: none;
+    overflow: auto;
+    text-align: center;
+}
+.Branding{
+    height: 150px;
+    width: 400px;                                                                                                                           
+    background-color: blueviolet;
+    float:left;
+    overflow: auto;
+}
+.SocialMedia{
+    height: 100px;
+    width: 800px;
+    background-color: yellow;
+    float:right;
+    overflow: auto;
+}
+.Menu{
+    height: 50px;
+    width: 800px;
+    background-color: crimson;
+   text-align: center;
+   float: none;
+   overflow: auto;
+}
+.Gallery{
+    height: 400px;
+    width: 1200px;
+    background-color: darkseagreen;
+    text-align: center;
+    float: none;
+    overflow: auto;
+}
+.Courses{
+    height: 400px;
+    width: 1200px;
+    background-color: hotpink;
+    float: none;
+}
+.Bootcamp{
+    height: 400px;
+    width: 300px;
+    background-color: lightsalmon;
+    text-align: center;
+    float: left;
+    overflow: auto;
+}
+.Cloud{
+    height: 400px;
+    width: 300px;
+    background-color: gold;
+    text-align: center;
+    float:right;
+    overflow: auto;
+    
+}
+.Machine{
+    height: 400px;
+    width: 300px;
+    background-color: peru;
+    text-align: center;
+    float:right;
+    overflow: auto;
+    
+}.System{
+    height: 400px;
+    width: 300px;
+    background-color: slateblue;
+    text-align: center;
+    float:right;
+    overflow: auto;
+    
+}
