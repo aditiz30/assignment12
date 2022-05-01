@@ -1,0 +1,12 @@
+*{
+    margin: 10px;
+    padding: 10px3;
+}
+.container{
+    width: 60%;
+    height: 60%;
+}
+.dropdown-item{
+    overflow: auto;
+    float: left;
+}
